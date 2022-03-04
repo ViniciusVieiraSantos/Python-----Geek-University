@@ -1,0 +1,25 @@
+with open('nomes_idade_2.txt', 'a',encoding='utf-8') as arquivo:
+    arquivo.seek(0)
+    arquivo.write(' '*40)
+    arquivo.seek(0)
+    arquivo.write('Amanda Loreiro')
+    arquivo.seek(40)
+    arquivo.write('10/10/2000\n')
+
+    arquivo.write(' ' * 40)
+    arquivo.seek(0)
+    arquivo.write('Rafael Castro')
+    arquivo.seek(40)
+    arquivo.write('14/02/2001\n')
+
+    arquivo.write(' ' * 40)
+    arquivo.seek(0)
+    arquivo.write('Magno Lee')
+    arquivo.seek(40)
+    arquivo.write('05/02/1980\n')
+
+    arquivo.write(' ' * 40)
+    arquivo.seek(0)
+    arquivo.write('Bruna Costa')
+    arquivo.seek(40)
+    arquivo.write('25/05/2004\n')

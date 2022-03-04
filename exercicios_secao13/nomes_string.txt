@@ -1,0 +1,4 @@
+Amanda Loreiro  : maior de idade
+Rafael Castro  : entrando na maior idade
+Magno Lee  : maior de idade
+Bruna Costa  : menor de idade
